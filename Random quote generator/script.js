@@ -30,9 +30,4 @@ const quotes = [
 
 newQuoteButton.addEventListener('click', generateRandomQuote);
 
-function generateRandomQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  const randomQuote = quotes[randomIndex];
-  quoteText.textContent = randomQuote.text;
-  quoteAuthor.textContent = `- ${randomQuote.author}`;
-}
+
