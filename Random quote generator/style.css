@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  #quoteContainer {
+    margin-top: 40px;
+    width: 80%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #quoteText {
+    font-size: 24px;
+  }
+  
+  #quoteAuthor {
+    margin-top: -16px;
+    font-size: 18px;
+  }
+  
+  #newQuoteButton {
+    margin-top: 24px;
+    padding: 8px 16px;
+  }
+  
