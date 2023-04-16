@@ -11,8 +11,7 @@ The quote generator displays random inspirational quotes to users, providing mot
 Technologies Used:
 
 Front-end development: HTML, CSS, JavaScript
-Back-end development: Java, Python, or any other preferred server-side programming language
-Web framework: Spring, Django, or any other preferred web framework
-Database: MySQL, MongoDB, or any other preferred database management system
-Additional libraries or APIs for BMI calculation, random quote generation, and other functionalities as needed.
+
+
 Overall, our web development project offers a versatile toolkit with a calculator, BMI calculator, to-do app, and quote generator, providing users with a wide range of functionalities for everyday tasks. The user-friendly interface, convenient features, and practical tools make it a valuable resource for users looking to manage their daily activities, calculate BMI, perform calculations, and find motivation through inspirational quotes.
+
