@@ -1,4 +1,3 @@
-Our web development project offers a comprehensive toolkit that includes a calculator, BMI (Body Mass Index) calculator, to-do app, and quote generator, all in one place. This web application is designed to provide users with a range of useful tools for everyday tasks, making it a convenient and practical resource.
 
 The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with input fields for numbers and buttons for operators, making it easy for users to perform calculations quickly and accurately.
 
