@@ -11,3 +11,4 @@ Technologies Used:
 Front-end development: HTML, CSS, JavaScript
 
 Overall, our web development project offers a versatile toolkit with a calculator, BMI calculator, to-do app, and quote generator, providing users with a wide range of functionalities for everyday tasks. The user-friendly interface, convenient features, and practical tools make it a valuable resource for users looking to manage their daily activities, calculate BMI, perform calculations, and find motivation through inspirational quotes.
+
