@@ -6,6 +6,8 @@ The to-do app provides a simple and effective way for users to create and manage
 
 The quote generator displays random inspirational quotes to users, providing motivation and inspiration. Users can click on a "Generate" button to generate a new quote, and they can also share quotes on social media platforms. The quote generator adds a positive and uplifting element to the web application, enhancing the overall user experience.
 
+This random color project generates a random color when the user clicks the "New Color" button. The color is displayed as a box with a solid background color. The color generated is a random hex color that is generated using the getRandomColor() function. 
+
 Technologies Used:
 
 Front-end development: HTML, CSS, JavaScript
