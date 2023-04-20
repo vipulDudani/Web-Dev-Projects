@@ -1,5 +1,3 @@
-const colorBox = document.querySelector('.color-box');
-const newColorButton = document.querySelector('.new-color-button');
 
 newColorButton.addEventListener('click', () => {
   const randomColor = getRandomColor();
