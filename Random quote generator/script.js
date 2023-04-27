@@ -1,8 +1,3 @@
-const quoteText = document.getElementById('quoteText');
-const quoteAuthor = document.getElementById('quoteAuthor');
-const newQuoteButton = document.getElementById('newQuoteButton');
-
-
 
 // Array of predefined quotes
 const quotes = [
