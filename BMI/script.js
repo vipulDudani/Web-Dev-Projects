@@ -1,5 +1,5 @@
 document.getElementById('bmiForm').addEventListener('submit', function(e) {
-    e.preventDefault();
+    
     
     // Get weight and height inputs
     let weight = parseFloat(document.getElementById('weight').value);
